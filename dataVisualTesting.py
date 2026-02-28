@@ -11,10 +11,8 @@ X = air_quality.data.features
 y = air_quality.data.targets 
   
 # metadata 
-print(air_quality.metadata) 
+# print(air_quality.metadata) 
   
-# variable information 
-print(air_quality.variables) 
 
 ##################
 
@@ -28,7 +26,5 @@ X = individual_household_electric_power_consumption.data.features
 y = individual_household_electric_power_consumption.data.targets 
   
 # metadata 
-print(individual_household_electric_power_consumption.metadata) 
+# print(individual_household_electric_power_consumption.metadata) 
   
-# variable information 
-print(individual_household_electric_power_consumption.variables) 
