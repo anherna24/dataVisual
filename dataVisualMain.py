@@ -4,3 +4,4 @@
 # git status
 # git add . (--all)
 # git commit -m " -------- "
+# Note to self: the "main" branch for git and github should have different names
