@@ -10,7 +10,7 @@ from ucimlrepo import fetch_ucirepo
 air_quality = fetch_ucirepo(id=360) 
   
 # data (as pandas dataframes) 
-X = air_quality.data.features 
+x = air_quality.data.features 
 y = air_quality.data.targets 
   
 # metadata 
